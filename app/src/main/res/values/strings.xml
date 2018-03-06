@@ -1,6 +1,13 @@
 <resources>
     <string name="app_name">Birthday Reminder</string>
     <string name="set">Set</string>
-    <string name="setdate">SetDate</string>
+    <string name="SetDate">SetDate</string>
+    <string name="SpecialDay">NameOfEvent</string>
+    <string name="StoreData">Save</string>
+    <integer name="saved_smonth">1</integer>
+    <integer name = "saved_day"> 1</integer>
+    <string name = "HappApp_File_Key">HappData</string>
+
+
 
 </resources>
